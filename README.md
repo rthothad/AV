@@ -1,8 +1,8 @@
-**Competitions held by Analytics Vidhya**
+# Competitions held by Analytics Vidhya
 
-**Time Series**
+## Time Series
 
-**Click Prediction**
+### Click Prediction
 
 1.  **Amex 2018** - Build a model to predict the probability of the next page a
     user will visit.
@@ -22,7 +22,7 @@
 
         3.  Trained a **CatBoost** and **LightGBM** model.
 
-**Demand Forecasting**
+### Demand Forecasting
 
 1.  **Food Demand Forecasting** - Predict 10 weeks out demand for meals.
 

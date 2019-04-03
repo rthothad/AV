@@ -32,7 +32,7 @@
 
     3.  **Approach**:
 
-        1.  Build many interaction features and statistical features such as
+        1.  Built many interaction features and statistical features such as
             sum, count, min, max, mean and mode. Dropped non-correlated
             features.
 
